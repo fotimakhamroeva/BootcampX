@@ -1,0 +1,1 @@
+SELECT count(day) FROM assignments;

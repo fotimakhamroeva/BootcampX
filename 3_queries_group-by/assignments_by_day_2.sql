@@ -1,0 +1,1 @@
+SELECT count(day) AS assignment_count FROM assignments WHERE assignment_count >= 10;
