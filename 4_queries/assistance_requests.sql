@@ -1,0 +1,1 @@
+SELECT count(*) FROM assistance_requests WHERE teacher_id = 4;
