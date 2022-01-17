@@ -1,0 +1,1 @@
+SELECT count(duration) FROM assignment_submissions;
